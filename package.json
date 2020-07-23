@@ -22,6 +22,14 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "author": {
+    "name": "Cícero Rodrigues",
+    "email": "cicerorod@gmail.com.br"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/teste/testing.git"
+  },
   "browserslist": {
     "production": [
       ">0.2%",
