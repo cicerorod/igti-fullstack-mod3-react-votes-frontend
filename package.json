@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/teste/testing.git"
+    "url": "https://github.com/cicerorod/igti-fullstack-mod3-react-votes-frontend.git"
   },
   "browserslist": {
     "production": [
