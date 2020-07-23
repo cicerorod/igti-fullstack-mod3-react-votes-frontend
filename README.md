@@ -8,9 +8,6 @@ Projeto para apresentar a votação de popularidade entre pessoas desenvolvido n
   <img src="https://github.com/cicerorod/igti-fullstack-mod3-react-votes-frontend/blob/master/img/tela.PNG">
 </p>
 
-## ![](https://img.icons8.com/ios-glyphs/20/000000/api.png) API utilizada para consumo dos dados
-
-`<link>` : <https://randomuser.me/api/?seed=rush&nat=br&results=5>
 
 ## ![](https://img.icons8.com/metro/20/000000/run-command.png) Execução
 
@@ -21,6 +18,11 @@ Projeto para apresentar a votação de popularidade entre pessoas desenvolvido n
 5. Acessar o endereço `http://localhost:3000/`
 
 <!-- :hammer:-->
+
+## ![](https://img.icons8.com/ios-glyphs/20/000000/api.png) API utilizada para consumo dos dados
+A aplicação necessita da API para retorno da votação. O Código pode ser baixada [aqui][backend]
+
+
 
 ## ![](https://img.icons8.com/ios-filled/20/000000/hammer.png) Recursos utilizados:
 
@@ -63,6 +65,9 @@ Este projeto está sob a licença do MIT. Consulte [LICENSE](https://github.com/
   <a href="https://icons8.com/icon/">Icons by Icons8</a>
   
 </p>
+
+
+[backend]: https://github.com/cicerorod/igti-fullstack-mod3-react-votes-backend
 
 <!--
 [nodejs]: https://nodejs.org/
